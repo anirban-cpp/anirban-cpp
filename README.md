@@ -1,4 +1,4 @@
-## ¡Hola! fellow coder <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## ¡Hola! fellow programmer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Hi, I'm Anirban Banerjee , currently working as a software engineer in
 [Tata Consultancy Services](https://www.tcs.com/). I am a tech enthusiast, although I harbour a love/hate kind of relationship with Programming 😐. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
