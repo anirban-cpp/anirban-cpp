@@ -1,7 +1,7 @@
 ## ¡Hola! fellow programmer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Hi, I'm Anirban Banerjee , currently working as a software engineer in
-[Tata Consultancy Services](https://www.tcs.com/). I am a tech enthusiast, although I harbour a love/hate kind of relationship with Programming 😐. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+[Recro](https://recro.io/). I am a tech enthusiast, although I harbour a love/hate kind of relationship with Programming 😐. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anirban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashdeep-patra-632428122/)](https://www.linkedin.com/in/anirban-banerjee-29a391187/)
 [![Gmail Badge](https://img.shields.io/badge/-anirbanbanerjee844@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirbanbanerjee844@gmail.com)](mailto:anirbanbanerjee844@gmail.com)
